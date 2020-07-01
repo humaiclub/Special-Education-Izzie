@@ -7,6 +7,8 @@
 
 3) Here's a link to the project mindmap I'm making in Mindomo: https://www.mindomo.com/mindmap/sped-by-me-4ee37b3b4fac4365ad432e1dadb7177c
 
+4) Here's where the project is hosted: https://spedbyme.com/
+
 More updated readme coming as the project progresses....
 
 Contact me: https://humai.club/
